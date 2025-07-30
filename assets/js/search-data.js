@@ -20,14 +20,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "a simple whitespace theme for academics",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation menu",
@@ -68,6 +61,13 @@ ninja.data = [{
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/people/";
+          },
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/blog/";
           },
         },{id: "post-a-post-with-plotly-js",
         
