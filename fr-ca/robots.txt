@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mlabussiere.github.io/sitemap.xml
+Sitemap: https://mlabussiere.github.io./sitemap.xml

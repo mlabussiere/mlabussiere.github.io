@@ -1,10 +1,10 @@
 
 const currentUrl = window.location.href;
 const siteUrl = "https://mlabussiere.github.io"; 
-let updatedUrl = currentUrl.replace("https://mlabussiere.github.io", "");
+let updatedUrl = currentUrl.replace("https://mlabussiere.github.io.", "");
 if (currentUrl.length == updatedUrl.length && currentUrl.startsWith("http://127.0.0.1")) {
   const otherSiteUrl = siteUrl.replace("localhost", "127.0.0.1");
-  updatedUrl = currentUrl.replace(otherSiteUrl + "", "");
+  updatedUrl = currentUrl.replace(otherSiteUrl + ".", "");
 }
 if ("pt-br".length > 0) {
   updatedUrl = updatedUrl.replace("/pt-br", "");
@@ -533,7 +533,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Redes sociais',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("./feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -554,14 +554,14 @@ ninja.data = [{
           title: 'en-us',
           section: 'Idiomas',
           handler: () => {
-            window.location.href = "" + updatedUrl;
+            window.location.href = "." + updatedUrl;
           },
         },{
           id: 'lang-fr-ca',
           title: 'fr-ca',
           section: 'Idiomas',
           handler: () => {
-            window.location.href = "/fr-ca" + updatedUrl;
+            window.location.href = "./fr-ca" + updatedUrl;
           },
         },{
       id: 'light-theme',
