@@ -10,9 +10,14 @@ nav_order: 4
 
 ## Harvard Dataverse
 
+The replication code for my PhD empirical articles can be found on my [Harvard Dataverse profile](https://dataverse.harvard.edu/dataverse/mlabussiere).
+
+
 {% if site.data.repositories.github_users %}
 
 ## GitHub 
+
+All replication code for subsequent work can be found on my GitHub profile:
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
