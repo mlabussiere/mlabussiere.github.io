@@ -2,21 +2,28 @@
 page_id: repositories
 layout: page
 permalink: /repositories/
-title: repositórios
-description: Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.
+title: Repositories
+description: 
 nav: true
 nav_order: 4
 ---
 
+## Harvard Dataverse
+
+The replication code for my PhD empirical articles can be found on my [Harvard Dataverse profile](https://dataverse.harvard.edu/dataverse/mlabussiere).
+
+
 {% if site.data.repositories.github_users %}
 
-## Usuários do GitHub
+## GitHub 
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
+All replication code for subsequent work can be found on my GitHub profile:
+
+[comment]: <> <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+[comment]: <>  {% for user in site.data.repositories.github_users %}
+[comment]: <>    {% include repository/repo_user.liquid username=user %}
+[comment]: <>  {% endfor %}
+[comment]: <> </div>
 
 ---
 
@@ -38,7 +45,7 @@ nav_order: 4
 
 {% if site.data.repositories.github_repos %}
 
-## Repositórios do GitHub
+## GitHub Repositories
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
