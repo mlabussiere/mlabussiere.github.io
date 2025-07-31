@@ -441,22 +441,7 @@ ninja.data = [{
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "actualités",},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "projets",handler: () => {
-              window.location.href = "/fr-fr/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "projets",handler: () => {
-              window.location.href = "/fr-fr/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "projets",handler: () => {
-              window.location.href = "/fr-fr/projects/9_project/";
-            },},{id: "projects-projeto-1",
+          section: "actualités",},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
           section: "projets",handler: () => {
@@ -471,21 +456,6 @@ ninja.data = [{
           description: "um projeto que redireciona pra outro website",
           section: "projets",handler: () => {
               window.location.href = "/fr-fr/projects/fr-fr/3_project/";
-            },},{id: "projects-projeto-4",
-          title: 'projeto 4',
-          description: "outro sem imagem",
-          section: "projets",handler: () => {
-              window.location.href = "/fr-fr/projects/fr-fr/4_project/";
-            },},{id: "projects-projeto-5",
-          title: 'projeto 5',
-          description: "um projeto com imagem de fundo",
-          section: "projets",handler: () => {
-              window.location.href = "/fr-fr/projects/fr-fr/5_project/";
-            },},{id: "projects-projeto-6",
-          title: 'projeto 6',
-          description: "um projeto sem imagem",
-          section: "projets",handler: () => {
-              window.location.href = "/fr-fr/projects/fr-fr/6_project/";
             },},{
         id: 'social-email',
         title: 'envoyer un courriel',
