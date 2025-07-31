@@ -10,20 +10,14 @@ nav_order: 4
 
 ## Harvard Dataverse
 
-The replication code for my PhD empirical articles can be found on my [Harvard Dataverse profile](https://dataverse.harvard.edu/dataverse/mlabussiere).
+Le code utilisé pour les articles issus de mon doctorat est disponible sur mon [profil Harvard Dataverse](https://dataverse.harvard.edu/dataverse/mlabussiere).
 
 
 {% if site.data.repositories.github_users %}
 
 ## GitHub 
 
-All replication code for subsequent work can be found on my GitHub profile:
-
-[comment]: <> <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-[comment]: <>  {% for user in site.data.repositories.github_users %}
-[comment]: <>    {% include repository/repo_user.liquid username=user %}
-[comment]: <>  {% endfor %}
-[comment]: <> </div>
+Pour tous les articles ultérieurs, le code est disponible sur mon [profil GitHub](https://github.com/mlabussiere).
 
 ---
 
@@ -37,7 +31,6 @@ All replication code for subsequent work can be found on my GitHub profile:
   {% include repository/repo_trophies.liquid username=user %}
   </div>
 
----
 
 {% endfor %}
 {% endif %}
@@ -45,7 +38,7 @@ All replication code for subsequent work can be found on my GitHub profile:
 
 {% if site.data.repositories.github_repos %}
 
-## GitHub Repositories
+### GitHub Repositories
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
@@ -53,3 +46,4 @@ All replication code for subsequent work can be found on my GitHub profile:
   {% endfor %}
 </div>
 {% endif %}
+
