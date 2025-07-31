@@ -443,7 +443,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-citizenship-and-education-outcomes-of-the-children-of-immigrants",
           title: 'Citizenship and education outcomes of the children of immigrants',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/en-us/1_project/";
             },},{id: "projects-skills-in-changing-labor-markets",
@@ -451,9 +451,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/en-us/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-ai-skills-at-work",
+          title: 'AI skills at work',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/en-us/3_project/";
             },},{
