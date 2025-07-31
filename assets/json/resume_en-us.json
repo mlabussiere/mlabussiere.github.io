@@ -23,7 +23,7 @@
     {
       "name": "University of Asmterdam",
       "position": "Postdoctoral researcher",
-      "location": "Amsterdam, the Netherlands
+      "location": "Amsterdam, the Netherlands",
       "url": "",
       "startDate": "2021-01-01",
       "endDate": "2024-12-31",
@@ -32,15 +32,22 @@
   
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Maastricht, Maastricht, the Netherlands",
+      "location": "Maastricht, the Netherlands",
+      "url": "https://cris.maastrichtuniversity.nl/en/publications/native-born-but-not-yet-citizen-citizenship-and-education-outcome",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2017-01-01",
+      "endDate": "2021-01-01",
+      "score": "Cum Laude"
+    },
+    {
+      "institution": "École Normale Supérieure (ENS) and School of Advanced Studies in the Social Sciences (EHESS)",
+      "location": "Paris, France",
+      "url": "https://master-sciences-sociales.ens.psl.eu/pdi-parcours-pratique-de-linterdisciplinarite-en-sciences-sociales/",
+      "studyType": "Master's degree in Social Sciences (PDI)",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "score": "Summa Cum Laude"
     }
   ],
   "awards": [
