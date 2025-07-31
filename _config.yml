@@ -634,17 +634,18 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
-
-jekyll_get_json:
-  - data: resume_en-us
-    json: assets/json/resume_en-us.json # it can also be an url
-  - data: resume_fr-fr
-    json: assets/json/resume_fr-fr.json # it can also be an url
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - awards
-  - languages
-
+#
+#jekyll_get_json:
+#  - data: resume_en-us
+#    json: assets/json/resume_en-us.json # it can also be an url
+#  - data: resume_fr-fr
+#    json: assets/json/resume_fr-fr.json # it can also be an url
+#
+#jsonresume:
+#  - basics
+#  - work
+#  - education
+#  - awards
+#  - languages
+#
+# -----------------------------------------------------------------------------
