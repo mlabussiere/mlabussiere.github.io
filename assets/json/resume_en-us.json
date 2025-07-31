@@ -1,36 +1,36 @@
 {
   "basics": {
     "name": "Marie Labussière",
-    "label": "Cientista",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://george-gca.github.io/multi-language-al-folio/pt-br/",
-    "summary": "Um físico teórico alemão, amplamente considerado um dos cientistas mais influentes de todos os tempos",
+    "email": "m.labussiere@uva.nl",
+    "phone": "",
+    "url": "https://www.uva.nl/en/profile/l/a/m.labussiere/m.labussiere.html",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Nieuwe Achtergracht 166",
+      "postalCode": "1018 WV",
+      "city": "Amsterdam",
+      "countryCode": "The Netherlands",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Instituto de Estudos Avançados, Universidade de Princeton",
-      "position": "Professor de Física Teórica",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Ensino no Palmer Physical Laboratory (agora 302 Frist Campus Center). Embora não seja professor em Princeton, associei-me aos professores de física e continuei a dar palestras no campus.",
-      "highlights": ["Relatividade"]
+      "name": "University of Asmterdam",
+      "position": "Postdoctoral researcher",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2024-12-31",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [
