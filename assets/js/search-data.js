@@ -334,7 +334,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/en-us/example_pdf.pdf";
+            window.location.href = "/assets/pdf/pt-br/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -392,11 +392,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/math/";
           
         },
-      },{id: "post-a-post-with-code",
+      },{id: "post-uma-postagem-com-código",
         
-          title: "a post with code",
+          title: "uma postagem com código",
         
-        description: "an example of a blog post with some code",
+        description: "um exemplo de uma postagem em um blog com código",
         section: "Posts",
         handler: () => {
           
@@ -430,32 +430,16 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/en-us/the_godfather/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/books/pt-br/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-um-anúncio-simples-em-uma-linha",
-          title: 'Um anúncio simples em uma linha.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/en-us/announcement_2/";
-            },},{id: "news-um-anúncio-longo-com-detalhes",
-          title: 'Um anúncio longo com detalhes',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/pt-br/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
-          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
