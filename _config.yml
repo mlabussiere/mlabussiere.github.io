@@ -115,10 +115,10 @@ disqus_shortname: multi-language-al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: CAREER blog post
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://careerproject.eu/2024/03/will-working-at-mcdonalds-develop-your-skills/
+        published_date: 2024-03-15
 
 # -----------------------------------------------------------------------------
 # Newsletter
