@@ -48,8 +48,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fr-fr/cv/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
+        },{id: "nav-enseignements",
+          title: "Enseignements",
           description: "",
           section: "menu de navigation",
           handler: () => {
@@ -73,15 +73,15 @@ ninja.data = [{
             window.open("https://careerproject.eu/2024/03/will-working-at-mcdonalds-develop-your-skills/", "_blank");
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+      },{id: "post-is-there-a-pilot-on-board-technology-and-the-labour-market-career-project",
         
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Is there a pilot on board? Technology and the labour market - Career... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Blog post about the effect of automation on the content of jobs.",
         section: "articles",
         handler: () => {
           
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+            window.open("https://careerproject.eu/2022/09/is-there-a-pilot-on-board-technology-and-the-labour-market/", "_blank");
           
         },
       },{id: "books-the-godfather",
