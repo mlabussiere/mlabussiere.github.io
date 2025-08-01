@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: À propos
 permalink: /
-subtitle: <a href='https://www.uva.nl/en/profile/l/a/m.labussiere/m.labussiere.html'>Université d'Amsterdam</a>. Enseignante-chercheuse en sociologie
+subtitle: <a href='https://www.uva.nl/en/profile/l/a/m.labussiere/m.labussiere.html'>Université d'Amsterdam</a>. Enseignante-chercheuse en sociologie.
 
 profile:
   align: right
