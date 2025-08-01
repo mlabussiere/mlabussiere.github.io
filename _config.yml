@@ -114,8 +114,6 @@ disqus_shortname: multi-language-al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-#  - name: medium.com
-#    rss_url: https://medium.com/@al-folio/feed
   - name: CAREER Blog
     posts:
       - url: https://careerproject.eu/2024/03/will-working-at-mcdonalds-develop-your-skills/
@@ -123,7 +121,7 @@ external_sources:
   - name: CAREER Blog
     posts:
       - url: https://careerproject.eu/2022/09/is-there-a-pilot-on-board-technology-and-the-labour-market/
-	published_date: 2022-09-15
+        published_date: 2022-09-15
 
 	
 # -----------------------------------------------------------------------------
