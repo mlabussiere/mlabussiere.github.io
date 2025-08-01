@@ -118,10 +118,12 @@ external_sources:
 #    rss_url: https://medium.com/@al-folio/feed
   - name: CAREER Blog
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://careerproject.eu/2024/03/will-working-at-mcdonalds-develop-your-skills/
+        published_date: 2024-03-15
+  - name: CAREER Blog
+    posts:
       - url: https://careerproject.eu/2022/09/is-there-a-pilot-on-board-technology-and-the-labour-market/
-	published_date: 2024-03-15
+	published_date: 2022-09-15
 
 
 # -----------------------------------------------------------------------------
