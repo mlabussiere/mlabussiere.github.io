@@ -10,3 +10,5 @@ description:
 toc:
   sidebar: left
 ---
+
+You can access my complete CV in PDF format via the link to the right.

@@ -10,3 +10,5 @@ description:
 toc:
   sidebar: left
 ---
+
+L'intégralité de mon CV peut être téléchargée au format PDF en cliquant à droite.
