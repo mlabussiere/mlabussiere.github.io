@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.uva.nl/en/profile/l/a/m.labussiere/m.labussiere.html'>University of Amsterdam</a>. Quantitative Sociologist
+subtitle: <a href='https://www.uva.nl/en/profile/l/a/m.labussiere/m.labussiere.html'>University of Amsterdam</a>. Sociology Researcher
 
 profile:
   align: right

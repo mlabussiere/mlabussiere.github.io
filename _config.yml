@@ -7,7 +7,8 @@ first_name: Marie
 middle_name: 
 last_name: Labussière
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: website_icon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: website_icon2.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+# https://www.flaticon.com/packs/origami-24
 
 url: https://mlabussiere.github.io # the base hostname & protocol for your site
 baseurl:   # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -113,12 +114,15 @@ disqus_shortname: multi-language-al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: CAREER blog post
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
+  - name: CAREER Blog
     posts:
-      - url: https://careerproject.eu/2024/03/will-working-at-mcdonalds-develop-your-skills/
-        published_date: 2024-03-15
+      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: 2024-05-14
+      - url: https://careerproject.eu/2022/09/is-there-a-pilot-on-board-technology-and-the-labour-market/
+	published_date: 2024-03-15
+
 
 # -----------------------------------------------------------------------------
 # Newsletter
