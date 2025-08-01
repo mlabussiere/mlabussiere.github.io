@@ -1,10 +1,10 @@
 
 const currentUrl = window.location.href;
 const siteUrl = "https://mlabussiere.github.io"; 
-let updatedUrl = currentUrl.replace("https://mlabussiere.github.io.", "");
+let updatedUrl = currentUrl.replace("https://mlabussiere.github.io", "");
 if (currentUrl.length == updatedUrl.length && currentUrl.startsWith("http://127.0.0.1")) {
   const otherSiteUrl = siteUrl.replace("localhost", "127.0.0.1");
-  updatedUrl = currentUrl.replace(otherSiteUrl + ".", "");
+  updatedUrl = currentUrl.replace(otherSiteUrl + "", "");
 }
 if ("".length > 0) {
   updatedUrl = updatedUrl.replace("/", "");
@@ -162,7 +162,7 @@ ninja.data = [{
           title: 'fr-fr',
           section: 'Languages',
           handler: () => {
-            window.location.href = "./fr-fr" + updatedUrl;
+            window.location.href = "/fr-fr" + updatedUrl;
           },
         },{
       id: 'light-theme',
