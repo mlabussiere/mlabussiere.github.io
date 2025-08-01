@@ -3,7 +3,7 @@ page_id: blog
 layout: default
 permalink: /blog/
 title: Blog
-blog_name: Blog posts
+blog_name: Miscellaneous blog posts
 description: 
 nav: true
 nav_order: 8
