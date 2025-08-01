@@ -84,6 +84,17 @@ ninja.data = [{
             window.open("https://careerproject.eu/2022/09/is-there-a-pilot-on-board-technology-and-the-labour-market/", "_blank");
           
         },
+      },{id: "post-from-engineering-student-to-teacher-in-european-studies-making-the-most-of-both-worlds-europenow",
+        
+          title: 'From Engineering Student to Teacher in European Studies: Making the Most of Both... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "This is part of our Campus Spotlight on Maastricht University.   I have worked at",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.europenowjournal.org/2020/11/09/from-engineering-student-to-teacher-in-european-studies-making-the-most-of-both-worlds/", "_blank");
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
