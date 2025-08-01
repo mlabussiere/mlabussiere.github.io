@@ -100,19 +100,19 @@ ninja.data = [{
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "actualités",},{id: "projects-projeto-1",
-          title: 'projeto 1',
-          description: "com imagem de fundo",
+          section: "actualités",},{id: "projects-citoyenneté-et-trajectoires-scolaires-des-enfants-d-39-immigrés",
+          title: 'Citoyenneté et trajectoires scolaires des enfants d&amp;#39;immigrés',
+          description: "",
           section: "projets",handler: () => {
               window.location.href = "/fr-fr/projects/fr-fr/1_project/";
-            },},{id: "projects-projeto-2",
-          title: 'projeto 2',
-          description: "um projeto com imagem de fundo e comentários do giscus",
+            },},{id: "projects-l-39-évolution-des-compétences-professionnelles",
+          title: 'L&amp;#39;évolution des compétences professionnelles',
+          description: "",
           section: "projets",handler: () => {
               window.location.href = "/fr-fr/projects/fr-fr/2_project/";
-            },},{id: "projects-projeto-3-com-um-nome-bem-longo",
-          title: 'projeto 3 com um nome bem longo',
-          description: "um projeto que redireciona pra outro website",
+            },},{id: "projects-les-compétences-d-39-ia-au-travail",
+          title: 'Les compétences d&amp;#39;IA au travail',
+          description: "",
           section: "projets",handler: () => {
               window.location.href = "/fr-fr/projects/fr-fr/3_project/";
             },},{
