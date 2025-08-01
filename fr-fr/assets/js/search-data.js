@@ -43,7 +43,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "L&#39;intégralité de mon CV peut être téléchargée au format PDF en cliquant à droite.",
           section: "menu de navigation",
           handler: () => {
             window.location.href = "/fr-fr/cv/";
