@@ -32,4 +32,3 @@ Je suis Assistant Professor au Centre de recherche sur les inégalités sociales
 
 J’utilise des méthodes quantitatives et computationnelles - notamment le machine learning, le text mining et la modélisation prédictive - pour étudier ces transformations à grande échelle. Je m’intéresse particulièrement au développement de recherches qui articulent les questions sociologiques avec de nouvelles approches computationnelles, tout en promouvant une science ouverte, collaborative et reproductible.
 
-J’ai obtenu mon doctorat à l’Université de Maastricht en 2021. Ma thèse portait sur les effets de la naturalisation sur les trajectoires scolaires des enfants d’immigrés aux Pays-Bas. J’ai ensuite été chercheuse postdoctorale pendant quatre ans au département de sociologie de l’Université d’Amsterdam. Dans le cadre du projet ERC CAREER, j’ai étudié les trajectoires professionnelles dans le contexte de la transformation des marchés du travail.

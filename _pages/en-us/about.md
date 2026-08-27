@@ -32,4 +32,3 @@ I am an Assistant Professor at the Centre for Research on Social Inequality (CRI
 
 I use computational and quantitative methods—including machine learning, text mining, and predictive modeling—to study these transformations at scale. I am particularly interested in developing research that connects sociological questions with new computational approaches, while promoting open, collaborative, and reproducible science.
 
-I received my PhD from Maastricht University in 2021, where my dissertation examined the effects of naturalization on the educational trajectories of children of immigrants in the Netherlands. I subsequently spent four years as a postdoctoral researcher in the Department of Sociology at the University of Amsterdam. As part of the ERC CAREER project, I studied employment trajectories in the context of changing labor markets.
