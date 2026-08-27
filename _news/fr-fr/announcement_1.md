@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-08-27
 inline: true
 related_posts: false
 ---
 
-Um anúncio simples em uma linha.
+Entretien pour une lettre d'information de l'Association Américaine de Sociologie au sujet de la relation entre compétences, categories socio-professionnelles et inégalités sur le marché du travail. Vous pouvez lire l'entretien [ici](https://mlabussiere.github.io/assets/pdf/fr-fr/ASA_section_newsletter.pdf) (en anglais). 
