@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: À propos
 permalink: /
-subtitle: <a href='https://www.uva.nl/en/profile/l/a/m.labussiere/m.labussiere.html'>Université d'Amsterdam</a>. Enseignante-chercheuse en sociologie.
+subtitle: <a href='https://www.uva.nl/en/profile/l/a/m.labussiere/m.labussiere.html'>Sciences Po</a>. Enseignante-chercheuse en sociologie.
 
 profile:
   align: right
@@ -28,6 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 ---
-Je suis chercheuse postdoctorante au département de sociologie de l'Université d'Amsterdam depuis Septembre 2021. Dans ma recherche, j'étudie la stratification sociale avec des méthodes quantitatives. Je m'intéresse particulièrement au développement des inégalités au cours de la vie des individus, en lien avec les conditions institutionnelles qu'ils rencontrent.
+Je suis Assistant Professor au Centre de recherche sur les inégalités sociales (CRIS) de Sciences Po. Mes recherches portent sur les transformations des relations entre technologie et stratification sociale, et s’intéressent notamment à la manière dont les évolutions technologiques et l’intelligence artificielle transforment les compétences, les carrières, les salaires et les relations sociales au travail.
 
-Mon travail actuel au sein du projet [CAREER](https://careerproject.eu/) financé par le Conseil Européen de la Recherche s'intéresse aux trajectoires professionnelles des travailleurs dans un contexte de mutation du marché du travail. J'analyse des offres d'emploi avec des techniques de text mining and machine learning pour cartographier l'évolution de la demande de compétences et étudier comment cela affecte les trajectoires professionnelles des travailleurs. 
+J’utilise des méthodes quantitatives et computationnelles - notamment le machine learning, le text mining et la modélisation prédictive - pour étudier ces transformations à grande échelle. Je m’intéresse particulièrement au développement de recherches qui articulent les questions sociologiques avec de nouvelles approches computationnelles, tout en promouvant une science ouverte, collaborative et reproductible.
+
+J’ai obtenu mon doctorat à l’Université de Maastricht en 2021. Ma thèse portait sur les effets de la naturalisation sur les trajectoires scolaires des enfants d’immigrés aux Pays-Bas. J’ai ensuite été chercheuse postdoctorale pendant quatre ans au département de sociologie de l’Université d’Amsterdam. Dans le cadre du projet ERC CAREER, j’ai étudié les trajectoires professionnelles dans le contexte de la transformation des marchés du travail.

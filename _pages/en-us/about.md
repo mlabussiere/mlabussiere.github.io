@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.uva.nl/en/profile/l/a/m.labussiere/m.labussiere.html'>University of Amsterdam</a>. Sociology Researcher.
+subtitle: <a href='https://www.sciencespo.fr/cris/en/directory/labussiere-marie/'>Sciences Po</a>. Sociology Researcher.
 
 profile:
   align: right
@@ -28,6 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher in the Department of Sociology at the University of Amsterdam since September 2021. My research focuses on social stratification and mobility using quantitative methods. I am particularly interested in analyzing the development of inequalities over the life course of individuals in relation to institutional conditions. 
+I am an Assistant Professor at the Centre for Research on Social Inequality (CRIS) at Sciences Po. My research focuses on the changing relationship between technology and social stratification, with a particular interest in how skills, careers, wages, and social relations at work are transformed by technological change and artificial intelligence.
 
-My current work in the [CAREER ERC project](https://careerproject.eu/) focuses on the employment trajectories of workers in the context of changing labor markets. I use job advertisement data and machine learning techniques to map the evolution of demand for skills over the last decade, and analyze how this affects the individual careers of workers. 
+I use computational and quantitative methods—including machine learning, text mining, and predictive modeling—to study these transformations at scale. I am particularly interested in developing research that connects sociological questions with new computational approaches, while promoting open, collaborative, and reproducible science.
+
+I received my PhD from Maastricht University in 2021, where my dissertation examined the effects of naturalization on the educational trajectories of children of immigrants in the Netherlands. I subsequently spent four years as a postdoctoral researcher in the Department of Sociology at the University of Amsterdam. As part of the ERC CAREER project, I studied employment trajectories in the context of changing labor markets.
