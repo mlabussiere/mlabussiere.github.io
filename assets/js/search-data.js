@@ -62,29 +62,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-will-working-at-mcdonald-39-s-develop-your-skills-career-project",
-        
-          title: 'Will working at McDonald&#39;s “develop your skills”? - Career Project <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "Blog post discussing the notion of low-skilled or unskilled jobs in the fast-food industry.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://careerproject.eu/2024/03/will-working-at-mcdonalds-develop-your-skills/", "_blank");
-          
-        },
-      },{id: "post-is-there-a-pilot-on-board-technology-and-the-labour-market-career-project",
-        
-          title: 'Is there a pilot on board? Technology and the labour market - Career... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "Blog post about the effect of automation on the content of jobs.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://careerproject.eu/2022/09/is-there-a-pilot-on-board-technology-and-the-labour-market/", "_blank");
-          
-        },
-      },{id: "post-from-engineering-student-to-teacher-in-european-studies-making-the-most-of-both-worlds-europenow",
+        },{id: "post-from-engineering-student-to-teacher-in-european-studies-making-the-most-of-both-worlds-europenow",
         
           title: 'From Engineering Student to Teacher in European Studies: Making the Most of Both... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
