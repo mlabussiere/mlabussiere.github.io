@@ -81,14 +81,6 @@ ninja.data = [{
             },},{id: "news-interview-for-the-american-sociological-association-economic-sociology-newsletter-accounts-to-discuss-skills-occupations-and-their-contributions-to-labor-market-inequality-you-can-read-the-interview-here",
           title: 'Interview for the American Sociological Association Economic Sociology Newsletter Accounts to discuss skills,...',
           description: "",
-          section: "News",},{id: "news-um-anúncio-longo-com-detalhes",
-          title: 'Um anúncio longo com detalhes',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/fr-fr/announcement_2/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
-          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
-          description: "",
           section: "News",},{id: "projects-citizenship-and-education-outcomes-of-the-children-of-immigrants",
           title: 'Citizenship and education outcomes of the children of immigrants',
           description: "",

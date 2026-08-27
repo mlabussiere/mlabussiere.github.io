@@ -78,16 +78,8 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/fr-fr/books/fr-fr/the_godfather/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha",
-          title: 'Um anúncio simples em uma linha.',
-          description: "",
-          section: "actualités",},{id: "news-um-anúncio-longo-com-detalhes",
-          title: 'Um anúncio longo com detalhes',
-          description: "",
-          section: "actualités",handler: () => {
-              window.location.href = "/fr-fr/news/fr-fr/announcement_2/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
-          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-entretien-pour-une-lettre-d-information-de-l-association-américaine-de-sociologie-au-sujet-de-la-relation-entre-compétences-categories-socio-professionnelles-et-inégalités-sur-le-marché-du-travail-vous-pouvez-lire-l-entretien-ici-en-anglais",
+          title: 'Entretien pour une lettre d’information de l’Association Américaine de Sociologie au sujet de...',
           description: "",
           section: "actualités",},{id: "projects-citoyenneté-et-trajectoires-scolaires-des-enfants-d-39-immigrés",
           title: 'Citoyenneté et trajectoires scolaires des enfants d&amp;#39;immigrés',
